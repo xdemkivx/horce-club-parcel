@@ -1,5 +1,5 @@
-@import '/stylesabstracts/mixins';
-@import '/styles/abstracts/variables';
+@import './styles/abstracts/mixins';
+@import './styles/abstracts/variables';
 .our__club--title{
   padding: 56px 0px 35px 0px;
   @include philosopher;
